@@ -81,13 +81,15 @@ Installing the application does not start the trial. When the trial expires, a l
 
 ## Get started
 
+**Download the Windows application from the official link below.** GitHub's **Code → Download ZIP** contains this repository's documentation and artwork, not the application installer.
+
 1. Download the [digitally signed Windows x64 installer](https://download.aicreatenow.com/software/wifiCommander2.1.1microsoft.exe).
 2. Review the [privacy policy](https://aicreatenow.com/WiFiCOMPrivacy.html), install, and open Wi-Fi Commander.
 3. Choose the two-day trial or enter your purchased key to activate online.
 4. For nearby Wi-Fi and mesh readings, enable a compatible Wi-Fi adapter and allow the Windows access needed for scanning.
 5. Choose the tool you need. For mesh analysis, select your equipment before beginning the monitoring session.
 
-See [version notes](CHANGELOG.md) for the 2.1.1 layout changes.
+See [version notes](CHANGELOG.md) for the 2.1.1 layout changes and [GitHub releases](https://github.com/aicreatenowdom/wifi-commander/releases) for published version entries.
 
 ## Understanding the readings
 
